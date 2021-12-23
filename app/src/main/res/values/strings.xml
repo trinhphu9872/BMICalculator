@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title_text">Máy tính BMI</string>
+    <string name="weight_counter_txt">0</string>
+    <string name="age_counter_txt">0</string>
+    <string name="weight_title_txt">Cân Nặng (kg)</string>
+    <string name="age_title_txt">Tuổi tác</string>
+    <string name="height_title_txt">theo ft và in</string>
+    <string name="button_text">Tính Toán</string>
+    <string name="button2_text">Tính Toán lại</string>
+    <string name="ft">ft</string>
+    <string name="in">in</string>
+    <string name="height">Chiều Cao</string>
+    <string name="YourBmiText">Chỉ số BMI bản thân</string>
+    <string name="bmiValue">0</string>
+    <string name="bmiTips">Bạn đang thiếu cân Vì vậy, bạn có thể cần phải tăng cân</string>
+    <string-array name="tips_array">
+        <item>
+Bạn đang bị thiếu cân nghiêm trọng. Đó là một dấu hiệu cho thấy bạn ăn không đủ hoặc bạn có thể bị ốm.</item>
+        <item>
+Bạn đang thiếu cân Vì vậy, bạn có thể cần phải tăng cân. </item>
+        <item>
+Bạn đang ở mức cân nặng phù hợp với chiều cao của bạn. Bạn giảm nguy cơ phát triển các vấn đề sức khỏe nghiêm trọng.</item>
+        <item>
+Bạn hơi thừa cân. Bạn có thể được khuyên giảm cân vì lý do sức khỏe.</item>
+        <item>
+Bạn đang thừa cân nặng. Sức khỏe của bạn có thể gặp nguy hiểm nếu bạn không giảm cân.</item>
+    </string-array>
+    <string-array name="catelory_array">
+        <item>Thiếu cân rất nghiêm trọng</item>
+        <item>Thiếu cân nặng</item>
+        <item>Thiếu cân</item>
+        <item>Bình thường (Cân nặng khỏe mạnh)</item>
+        <item>Thừa cân</item>
+        <item>Béo phì vừa phải</item>
+        <item>Béo phì nghiêm trọng</item>
+        <item>Rất béo phì</item>
+    </string-array>
+</resources>
