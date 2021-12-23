@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Cal/BMICalculator/app/src/main/res/drawable/button_design.xml" value="0.29074074074074074" />
+        <entry key="..\:/Cal/BMICalculator/app/src/main/res/layout/activity_main.xml" value="0.16210739614994935" />
         <entry key="..\:/CalculatorBMI/BMICalculator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19895833333333332" />
         <entry key="..\:/CalculatorBMI/BMICalculator/app/src/main/res/drawable/button_design.xml" value="0.19895833333333332" />
         <entry key="..\:/CalculatorBMI/BMICalculator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19895833333333332" />
